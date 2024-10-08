@@ -1,6 +1,6 @@
 {
   "name": "@smashweaver/resetcss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "reset.css",
   "files": [
     "reset.css"
