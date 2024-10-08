@@ -14,5 +14,10 @@
   ],
   "author": "Jason D. Jimenez",
   "license": "ISC",
-  "description": "A CSS reset for modern web applications."
+  "description": "A CSS reset for modern web applications.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smashweaver/resetcss.git",
+    "directory": "packages/reset-css"
+  }
 }
