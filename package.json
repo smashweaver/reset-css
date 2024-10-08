@@ -1,0 +1,17 @@
+{
+  "name": "resetcss-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npx turbo run build",
+    "dev": "npx turbo run dev --parallel"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  },
+  "packageManager": "npm@10.8.2"
+}
